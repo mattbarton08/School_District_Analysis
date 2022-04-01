@@ -9,7 +9,9 @@ In this analysis, I looked at the math and reading scores of all students in the
 Changing these grades did not greatly affect the district math or reading scores or passing percentages. When rounded to the nearest percent, the percent of students who passed math, reading, and overall was the same.
 
 ### How is the school summary affected?
-
+In the school summary data frame, we can see that Thomas High School's passing percentages went up a lot after dropping the ninth graders'scores. 
+![Alt text](https://i.imgur.com/JGm3Jai.png "Screenshot_1")
+![Alt text](https://i.imgur.com/Xiawnfq.png "Screenshot_2")
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
