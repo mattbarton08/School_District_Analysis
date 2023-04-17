@@ -1,6 +1,6 @@
 # School District Analysis
 
-## Overview of the school district analysis:
+## Overview:
 In this analysis, I looked at the math and reading scores of all students in the district and looked at which factors might have contributed to high or low passing rates. The ninth grade scores for both math and reading had to be dropped due to academic dishonesty which changed the story the data tells.
 
 ## Results:
@@ -34,5 +34,5 @@ The scores by school size did not change after rounding the scores. This is what
 The scores by school type were slightly less for charter schools after dropping the ninth graders' scores but again it does not show up after rounding the data. Here is the final rounded data:
 ![Alt text](https://i.imgur.com/yRuEau1.png "Screenshot_7")
 
-## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary: 
 The biggest change after dropping the scores was that the passing percentages for Thomas High School dropped slightly. The overall scores for ninth graders in the district also dropped slightly but not enough to show up after rounding the scores. The same happened in charter school and medium size schools, where the passing percentages dropped but not enough to show up after formatting the data. In the grade level data, the only difference was that ninth graders at Thomas High School did not have scores anymore.
